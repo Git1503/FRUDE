@@ -22,17 +22,5 @@
         "key": "key1503",
         "expirydate": "30-09-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "980a0dd151899b43",
-        "key": "key1503",
-        "expirydate": "30-09-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "85651f4c87181181",
-        "key": "key1503",
-        "expirydate": "30-09-2026",
-        "Allowoffline": false
     }
 ]
