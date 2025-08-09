@@ -1,5 +1,5 @@
 [
-   {
+    {
         "device_id": "device123",
         "key": "key12345",
         "expirydate": "31-12-2025",
@@ -12,15 +12,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "33da4b728332f33d",
-        "key": "key1503",
-        "expirydate": "30-09-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "11e8d836540d1552",
         "key": "key1503",
-        "expirydate": "30-09-2026",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+
 ]
