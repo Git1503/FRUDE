@@ -1,2 +1,2 @@
-dadb_ak
-No Telegram
+#dadb_ak
+#skipped telegram
