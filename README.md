@@ -1,2 +1,2 @@
-# FRUDE
-User Device Enable
+dadb_ak
+No Telegram
