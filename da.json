@@ -17,10 +17,4 @@
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
-    {
-        "device_id": "d754482f5b890729",
-        "key": "matrix",
-        "expirydate": "23-09-2026",
-        "Allowoffline": false
-    },
 ]
